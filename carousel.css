@@ -239,6 +239,7 @@ list-style-image:url('favicon.ico');
   color:white;
   border-radius: 10px;
   margin-bottom: 50px;
+  padding-bottom: 70px;
 }
 
 #my-form h1 {
@@ -250,7 +251,7 @@ list-style-image:url('favicon.ico');
   background-color: transparent;
   color:#fe0000;
   border-radius: 10px;
-  margin-bottom: 50px;
+  margin-bottom: 10px;
   /*height: 100px;*/
 }
 
@@ -469,4 +470,3 @@ li img {
 }
 
 }
-
